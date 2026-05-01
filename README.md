@@ -2,6 +2,8 @@
 
 A defensive machine learning dashboard simulating the detection of spoofing and jamming anomalies in radar data over Ireland.
 
+![Irish Radar Anomaly Detector](./dashboard.png)
+
 ## Overview
 
 This project is a React-based web application that visualizes a simulated radar feed and provides tools to inject synthetic anomalies (such as point spoofing and jamming arcs). It features a simulated Machine Learning detection pipeline (representing an Isolation Forest + CNN ensemble) that scans the radar grid, identifies anomalous signatures, and alerts the user in real-time.
