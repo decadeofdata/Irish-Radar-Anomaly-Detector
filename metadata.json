@@ -1,0 +1,6 @@
+{
+  "name": "Irish Radar Anomaly Detector",
+  "description": "A defensive ML dashboard simulating the detection of spoofing and jamming anomalies in Irish radar data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
